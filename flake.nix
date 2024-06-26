@@ -20,6 +20,8 @@
           cppcheck
           gtest
         ];
+
+        DEV_SHELL_ACTIVE = "simmer";
       };
   };
 }
