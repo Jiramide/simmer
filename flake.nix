@@ -17,6 +17,7 @@
           clang-tools
           codespell
           cmake
+          gnumake
           cppcheck
           gtest
         ];
